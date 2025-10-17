@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "${project.maven_group}.Main",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "A GUI element that shows what your middle click will do, and its item count.",
+  "URL": "https://github.com/TehPicix/rusherhack-MiddleClickGUI",
+  "Authors": [
+    "TehPicix"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
