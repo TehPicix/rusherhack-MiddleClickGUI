@@ -42,4 +42,4 @@ jobs:
           draft: false
           generate_release_notes: true
           tag_name: v${{ env.version }}
-          files: build/libs/*.jar
+          files: build/libs/*-*.jar
